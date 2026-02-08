@@ -1,0 +1,7 @@
+{
+  "name": "QueNeu - Where Wisdom Becomes Future",
+  "description": "An AI-powered gamified platform that translates professional experience and elder wisdom into immersive board game scenarios for the next generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
